@@ -1,0 +1,22 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "This is a test repository to learn Git and Node.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekPardhi/React-Practice.git"
+  },
+  "author": "Abhishek Pardhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekPardhi/React-Practice/issues"
+  },
+  "homepage": "https://github.com/AbhishekPardhi/React-Practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
